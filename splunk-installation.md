@@ -54,12 +54,6 @@ Open browser and go to:
 
 ---
 
-## 📸 Submission  
-📷 *Shared a screenshot of my Splunk Web Interface below ⬇️*  
-> *(Attach your screenshot here in the repository or README)*
-
----
-
 ## 🙌 Gratitude  
 Big thanks to my mentors and the cybersecurity community for their constant support.
 
